@@ -1,10 +1,13 @@
 ## Awesome "Project"
 
-You can use the [editor on GitHub](https://github.com/Inopo/bootcamp_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+// Explanation of the project goes here. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team members:
 
-### Markdown
+Eleanor
+Felipe
+Shengtao
+Ege
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
