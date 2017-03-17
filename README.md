@@ -14,13 +14,13 @@ An other person can be responsible from getting the data from the "form" to fire
 1API each 
 
 -Eleanor
-  UI/Frontend & Google maps. 
+  *UI/Frontend & Google maps. 
 -Felipe
-  API Indeed,Linkedin 
+  *API Indeed,Linkedin 
 -Shengtao
-  Firebase / Form
+  *Firebase / Form
 -Ege
-  API Glassdoor, Linkedin
+  *API Glassdoor, Linkedin
 
 ###Ownership/Tasks/Timelines
 -Eleanor
