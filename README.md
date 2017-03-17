@@ -7,10 +7,20 @@ version 1.0:  Keep track of the jobs that you have applied for and the necessary
 
 ### Team members:
 
+We would need a person to be the product manager of the front end, UI, Color..... and sama eperson should be responsibe from the google maps api ideally. 
+
+An other person can be responsible from getting the data from the "form" to firebase, the woner furebase and job form. 
+
+1API each 
+
 -Eleanor
+  UI/Frontend & Google maps. 
 -Felipe
+  API Indeed,Linkedin 
 -Shengtao
+  Firebase / Form
 -Ege
+  API Glassdoor, Linkedin
 
 ###Ownership/Tasks/Timelines
 -Eleanor
