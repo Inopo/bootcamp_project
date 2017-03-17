@@ -13,14 +13,6 @@ An other person can be responsible from getting the data from the "form" to fire
 
 1API each 
 
--Eleanor
-  *
--Felipe
-  *API 
--Shengtao
-  *
--Ege
-  *
 
 ## Ownership/Tasks/Timelines
 -Eleanor UI/Frontend & Google maps
